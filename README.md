@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hey there! I'm Syed Adeeb Hussain
 
-<!--
-**Syedadeebhussain/Syedadeebhussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech | Aspiring Software Engineer | ML & Web Enthusiast  
+💡 Building tech that solves real-world problems | Open to opportunities
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate engineering student with a strong foundation in software development, machine learning, and web technologies. I love working on impactful projects—from predicting forest fires with AI to fighting misinformation with browser extensions.
+
+- 🌱 Currently exploring **AI/ML**, **Edge Computing**, and **Full-Stack Web Development**
+- 🧠 Ex-Trainee at **Intel® Unnati Industrial Training Program**
+- 🛠️ Strong command over **Java**, **JavaScript**
+- 🎯 Looking to grow through **internships**, **open-source**, and **hackathons**
