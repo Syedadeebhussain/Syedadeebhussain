@@ -30,21 +30,6 @@ I'm a passionate engineering student with a strong foundation in software develo
 ---
 
 
-## 🏆 LeetCode Info
-
-## 🏆 LeetCode Info (2025)
-
-<div align="center">
-  <a href="https://leetcode.com/u/Syed-Adeeb-Hussain/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" height="150" width="150" alt="LeetCode 50 Days Badge 2025"/>
-  </a>
-  <a href="https://leetcode.com/u/Syed-Adeeb-Hussain/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2025-100.gif" height="150" width="150" alt="LeetCode 100 Days Badge 2025"/>
-  </a>
-</div>
-
-
-
 
 ---
 
