@@ -29,6 +29,25 @@ I'm a passionate engineering student with a strong foundation in software develo
 
 ---
 
+## 🏆 LeetCode Info
+
+<div align="center">
+  <a href="https://leetcode.com/u/Syed-Adeeb-Hussain/" target="_blank">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="150" width="150" />
+  </a>
+  <a href="https://leetcode.com/u/Syed-Adeeb-Hussain/" target="_blank">
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="150" width="150" />
+  </a>
+  <a href="https://leetcode.com/u/Syed-Adeeb-Hussain/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="150" width="150" />
+  </a>
+  <a href="https://leetcode.com/u/Syed-Adeeb-Hussain/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="150" width="150" />
+  </a>
+</div>
+
+---
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedadeebhussain/)  
