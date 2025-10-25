@@ -35,15 +35,10 @@ I love creating impactful projects — from **predicting forest fires using AI**
 ## 💻 Competitive Programming & Problem Solving  
 
 🏅 **LeetCode:**  
-![LeetCode Stats](https://leetcard.jacoblin.cool/syedadeebhussain?theme=dark&font=Karma&ext=heatmap)  
+![https://leetcode.com/u/Syed-Adeeb-Hussain/](https://leetcard.jacoblin.cool/syedadeebhussain?theme=dark&font=Karma&ext=heatmap)  
 
 ---
 
-## 📈 GitHub Stats  
-
-![Adeeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedadeebhussain&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedadeebhussain&layout=compact&theme=radical&hide_border=true)  
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedadeebhussain&theme=radical)
 
 ---
 
