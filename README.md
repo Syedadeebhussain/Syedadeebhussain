@@ -35,8 +35,7 @@ I love creating impactful projects — from **predicting forest fires using AI**
 ## 💻 Competitive Programming & Problem Solving  
 
 🏅 **LeetCode:**  
-![https://leetcode.com/u/Syed-Adeeb-Hussain/](https://leetcard.jacoblin.cool/syedadeebhussain?theme=dark&font=Karma&ext=heatmap)  
-
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Syed-Adeeb-Hussain?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/Syed-Adeeb-Hussain/)
 ---
 
 
