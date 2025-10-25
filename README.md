@@ -12,7 +12,7 @@ I love creating impactful projects — from **predicting forest fires using AI**
 
 - 🌱 Currently exploring **AI/ML**, **Edge Computing**, and **Full-Stack Web Development**  
 - 🧠 Ex-Trainee at **Intel® Unnati Industrial Training Program**  
-- 🧩 Solved **550+ problems** on [**LeetCode**](https://leetcode.com/)  
+- 🧩 Solved **550+ problems** on [**LeetCode**](https://leetcode.com/u/Syed-Adeeb-Hussain/)  
 - 🥈 **3⭐ Silver Badge in SQL** on LeetCode  
 - 🛠️ Strong command over **Java** & **JavaScript**  
 - 🎯 Looking to grow through **internships**, **open-source**, and **hackathons**  
