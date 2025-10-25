@@ -38,3 +38,8 @@ I'm a passionate engineering student with a strong foundation in software develo
 ---
 
 > “Strive not to be a success, but rather to be of value.” – *Albert Einstein*
+## 📊 Contribution Graph
+
+![Syed Adeeb Hussain's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=syedadeebhussain&theme=react-dark&hide_border=true)
+
+---
