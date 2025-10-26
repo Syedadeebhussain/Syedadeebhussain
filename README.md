@@ -1,4 +1,5 @@
 # 👋 Hey there! I'm Syed Adeeb Hussain  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=435&lines=Software+Engineer+in+Making;Machine+Learning+%7C+Web+Developer;550%2B+LeetCode+Problems+Solved;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
 🎓 **B.Tech | Aspiring Software Engineer | ML & Web Enthusiast**  
 💡 Building tech that solves real-world problems | Open to opportunities  
@@ -46,7 +47,6 @@ I'm a passionate **engineering student** with a strong foundation in **software 
 ![Syed Adeeb Hussain's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=syedadeebhussain&theme=react-dark&hide_border=true)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=435&lines=Software+Engineer+in+Making;Machine+Learning+%7C+Web+Developer;550%2B+LeetCode+Problems+Solved;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
 
 ---
