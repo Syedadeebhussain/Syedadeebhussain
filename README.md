@@ -57,6 +57,5 @@ I'm a passionate **engineering student** with a strong foundation in **software 
 📧 **Email:** [syedadeebhussain023@gmail.com](mailto:syedadeebhussain023@gmail.com)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=syedadeebhussain&color=blueviolet&style=for-the-badge)
 
 > 💬 *“Strive not to be a success, but rather to be of value.”* – **Albert Einstein**
