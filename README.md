@@ -8,7 +8,7 @@
 ## 🚀 About Me  
 
 I'm a passionate **engineering student** with a strong foundation in **software development**, **machine learning**, and **web technologies**.  
-I love creating impactful projects — from **predicting forest fires using AI** to **fighting misinformation with browser extensions**.  
+
 
 - 🌱 Currently exploring **AI/ML**, **Edge Computing**, and **Full-Stack Web Development**  
 - 🧠 Ex-Trainee at **Intel® Unnati Industrial Training Program**  
@@ -44,6 +44,10 @@ I love creating impactful projects — from **predicting forest fires using AI**
 ## 📊 Contribution Graph  
 
 ![Syed Adeeb Hussain's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=syedadeebhussain&theme=react-dark&hide_border=true)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=435&lines=Software+Engineer+in+Making;Machine+Learning+%7C+Web+Developer;550%2B+LeetCode+Problems+Solved;Always+Learning+New+Things!)](https://git.io/typing-svg)
+
 
 ---
 
