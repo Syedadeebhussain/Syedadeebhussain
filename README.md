@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Syed Adeeb Hussain
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=500&lines=Software+Engineer+in+Making;Machine+Learning+%7C+Web+Developer;550%2B+LeetCode+Problems+Solved;Always+Learning+New+Things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&width=500&lines=Software+Engineer+in+Making;Machine+Learning+%7C+Web+Developer;575%2B+LeetCode+Problems+Solved;Always+Learning+New+Things!)](https://git.io/typing-svg)
 
 
 🎓 **B.Tech | Aspiring Software Engineer | ML & Web Enthusiast**  
