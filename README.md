@@ -14,7 +14,7 @@ I'm a passionate **engineering student** with a strong foundation in **software 
 
 * 🌱 Currently exploring **AI/ML**, **Edge Computing**, and **Full-Stack Web Development**
 * 🧠 Ex-Trainee at **Intel® Unnati Industrial Training Program**
-* 🧩 Solved **920+ problems** on [**LeetCode**](https://leetcode.com/u/Syed-Adeeb-Hussain/)
+* 🧩 Solved **940+ problems** on [**LeetCode**](https://leetcode.com/u/Syed-Adeeb-Hussain/)
 * 🥈 **3⭐ Silver Badge in SQL** on LeetCode
 * 🛠️ Strong command over **Java**, **JavaScript**, and **Data Structures & Algorithms**
 * 🎯 Looking to grow through **internships**, **open-source**, and **hackathons**
