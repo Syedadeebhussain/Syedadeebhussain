@@ -2,7 +2,7 @@
 
 # 👨‍💻 SYED ADEEB HUSSAIN
 
-### 💻 Full-Stack Developer • 🤖 ML & Edge Computing Enthusiast • 🧩 Problem Solver
+### 💻 Full-Stack Developer • 🤖 AI Enthusiast • 🧩 Problem Solver
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=940%2B+Problems+Solved+on+LeetCode;3%E2%98%85+Silver+Badge+in+SQL;MERN+Stack+%7C+DSA+%7C+Machine+Learning;Ex-Trainee+%40+Intel%C2%AE+Unnati+Program;Always+Learning%2C+Always+Shipping" alt="Typing Animation" />
 
@@ -185,6 +185,7 @@ const syed = {
 ### 🎓 Academic Background
 **B.Tech in Computer Science Engineering**
 *(AIML & IoT)* — GLA University
+- CPI :8.89
 - Core: DSA, OOP Concepts, Computer Networks
 - Focus: Full-Stack Development & Machine Learning
 
