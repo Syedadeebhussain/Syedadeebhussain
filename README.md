@@ -251,20 +251,5 @@ const syed = {
 
 ---
 
-<div align="center">
-
-### ⚡ Fun Fact
-**My brain debugs faster than my code compiles when deadlines are close** 😎💻
-
-### 📊 Profile Stats
-<img src="https://komarev.com/ghpvc/?username=syedadeebhussain&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Profile Views"/>
-
----
-
-**Built with 💙 by Syed Adeeb Hussain**
-
-*Last Updated: June 2026*
-
-</div>
 
 ---
