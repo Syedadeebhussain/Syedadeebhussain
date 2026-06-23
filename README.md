@@ -10,25 +10,7 @@
 
 ---
 
-## 🎯 WHY ME?
 
-```javascript
-const syed = {
-    role: "B.Tech CSE (AIML & IoT) Student & Full-Stack Developer",
-    competitive: ["LeetCode — 940+ Problems Solved", "3★ Silver Badge in SQL"],
-    strengths: ["Clean Architecture", "Full-Stack Builds", "Fast Execution"],
-    mindset: "I build, I break, I fix, I ship.",
-    status: "Open for internships, open-source & hackathons"
-};
-```
-
-- 🚀 **Strong full-stack foundation** with real, deployed projects (AI chatbots, game-AI systems)
-- 🧠 **Competitive programming mindset** — 940+ problems solved on LeetCode
-- 🛠️ **Clean code advocate** — I write maintainable, scalable solutions
-- 🔥 **Fast learner, faster executor** — from idea to deployment in days
-- 🌱 **Ex-Trainee** at Intel® Unnati Industrial Training Program
-
----
 
 ## ⏳ WHAT I'M DOING NOW
 
@@ -76,6 +58,25 @@ const syed = {
 | 🏭 Industrial Training | Intel® Unnati Program | **Ex-Trainee** |
 | 🚀 GitHub Projects | AI-Powered Builds | **2+** |
 | 💻 Core Stack | Java • JavaScript • DSA | — |
+
+---
+## 🎯 WHY ME?
+
+```javascript
+const syed = {
+    role: "B.Tech CSE (AIML & IoT) Student & Full-Stack Developer",
+    competitive: ["LeetCode — 940+ Problems Solved", "3★ Silver Badge in SQL"],
+    strengths: ["Clean Architecture", "Full-Stack Builds", "Fast Execution"],
+    mindset: "I build, I break, I fix, I ship.",
+    status: "Open for internships, open-source & hackathons"
+};
+```
+
+- 🚀 **Strong full-stack foundation** with real, deployed projects (AI chatbots, game-AI systems)
+- 🧠 **Competitive programming mindset** — 940+ problems solved on LeetCode
+- 🛠️ **Clean code advocate** — I write maintainable, scalable solutions
+- 🔥 **Fast learner, faster executor** — from idea to deployment in days
+- 🌱 **Ex-Trainee** at Intel® Unnati Industrial Training Program
 
 ---
 
