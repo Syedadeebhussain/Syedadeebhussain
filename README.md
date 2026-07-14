@@ -65,7 +65,7 @@
 ```javascript
 const syed = {
     role: "B.Tech CSE (AIML & IoT) Student & Full-Stack Developer",
-    competitive: ["LeetCode — 940+ Problems Solved", "3★ Silver Badge in SQL"],
+    competitive: ["LeetCode — 950+ Problems Solved", "3★ Silver Badge in SQL"],
     strengths: ["Clean Architecture", "Full-Stack Builds", "Fast Execution"],
     mindset: "I build, I break, I fix, I ship.",
     status: "Open for internships, open-source & hackathons"
