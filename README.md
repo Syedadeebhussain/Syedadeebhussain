@@ -106,32 +106,45 @@ const syed = {
 };
 ```
 
-- 🚀 **Strong full-stack foundation** with real, deployed projects (AI chatbots, game-AI systems)
-- 🧠 **Competitive programming mindset** — 940+ problems solved on LeetCode
-- 🛠️ **Clean code advocate** — I write maintainable, scalable solutions
-- 🔥 **Fast learner, faster executor** — from idea to deployment in days
+- 🚀 **Production-ready full-stack applications** using MERN stack
+- 🤖 **Hands-on experience with Generative AI** (OpenAI, Gemini, LangChain, RAG)
+- 🧠 **Competitive programmer** with **950+ LeetCode** problems solved
+- ⚙️ **Strong backend engineering** using REST APIs & scalable architecture
+- ☁️ **Cloud deployment experience** with Vercel & Netlify
 - 🌱 **Ex-Trainee** at Intel® Unnati Industrial Training Program
 
 ---
 
-## 🛠️ TECH STACK & ARSENAL
-
 <div align="center">
 
 ### 🚀 Languages
-<img src="https://skillicons.dev/icons?i=java,js,nodejs,html,css" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" />
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 
-### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-### 🛠️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,vscode,windows" />
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" />
 
-### ☁️ Deployment & Hosting
-<img src="https://skillicons.dev/icons?i=netlify,vercel" />
+### 🤖 Generative AI
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-7B61FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/n8n-AI_Automation-EA4B71?style=for-the-badge"/>
+</p>
+
+### ☁️ Cloud & Deployment
+<img src="https://skillicons.dev/icons?i=azure,docker,vercel,netlify" />
+
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
 
