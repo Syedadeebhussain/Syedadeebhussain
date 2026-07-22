@@ -64,11 +64,45 @@
 
 ```javascript
 const syed = {
-    role: "B.Tech CSE (AIML & IoT) Student & Full-Stack Developer",
-    competitive: ["LeetCode — 950+ Problems Solved", "3★ Silver Badge in SQL"],
-    strengths: ["Clean Architecture", "Full-Stack Builds", "Fast Execution"],
+    role: "Full-Stack Developer & AI Enthusiast",
+
+    education: "B.Tech CSE (AIML & IoT) @ GLA University",
+
+    competitiveProgramming: {
+        platform: "LeetCode",
+        solved: "950+ Problems",
+        badge: "3★ Silver SQL"
+    },
+
+    techStack: {
+        frontend: ["React", "Next.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js"],
+        database: ["MongoDB", "PostgreSQL", "Supabase"],
+        cloud: ["Azure", "Vercel", "Netlify"],
+        languages: ["Java", "JavaScript", "TypeScript"]
+    },
+
+    ai: [
+        "OpenAI API",
+        "Google Gemini",
+        "LangChain",
+        "RAG",
+        "Prompt Engineering",
+        "AI Agents",
+        "n8n Automation"
+    ],
+
+    strengths: [
+        "Full-Stack Development",
+        "System Design",
+        "Clean Architecture",
+        "REST APIs",
+        "Problem Solving"
+    ],
+
     mindset: "I build, I break, I fix, I ship.",
-    status: "Open for internships, open-source & hackathons"
+
+    status: "Open for Software Engineering & AI Internships 🚀"
 };
 ```
 
