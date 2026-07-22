@@ -131,14 +131,14 @@ const syed = {
 
 ### 🤖 Generative AI
 <p align="center">
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-7B61FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-43A047?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector%20DB-5E35B1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP-3949AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Fine--Tuning-E53935?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-2D2DFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-FF6B00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7B61FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Embeddings-00A86B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vector_DB-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Agents-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/Function_Calling-1E88E5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Fine_Tuning-E53935?style=flat-square" />
 </p>
 
 ### ☁️ Cloud & Deployment
