@@ -130,18 +130,19 @@ const syed = {
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" />
 
 ### 🤖 Generative AI
-<p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+<p align="center">
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-7B61FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_Agents-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/n8n-AI_Automation-EA4B71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-7B61FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-43A047?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20DB-5E35B1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-3949AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fine--Tuning-E53935?style=for-the-badge"/>
 </p>
 
 ### ☁️ Cloud & Deployment
-<img src="https://skillicons.dev/icons?i=azure,docker,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=vercel,netlify" />
 
 ### 🛠️ Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
