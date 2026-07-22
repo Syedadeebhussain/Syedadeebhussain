@@ -129,18 +129,6 @@ const syed = {
 ### 🗄️ Database
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" />
 
-### 🤖 Generative AI
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMs-2D2DFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-FF6B00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-7B61FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Embeddings-00A86B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vector_DB-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_Agents-009688?style=flat-square" />
-  <img src="https://img.shields.io/badge/Function_Calling-1E88E5?style=flat-square" />
-  <img src="https://img.shields.io/badge/Fine_Tuning-E53935?style=flat-square" />
-</p>
-
 ### ☁️ Cloud & Deployment
 <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 
